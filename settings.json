@@ -1,0 +1,27 @@
+{
+  "editor.tabSize": 2,
+  "editor.renderWhitespace": "boundary",
+  "workbench.colorTheme": "Ayu Mirage",
+  "extensions.ignoreRecommendations": false,
+  "git.enableSmartCommit": true,
+  "gitlens.advanced.messages": {
+    "suppressShowKeyBindingsNotice": true
+  },
+  "git.confirmSync": false,
+  "files.exclude": {
+    "**/.git": true,
+    "tmp/cache/": true
+  },
+  "git.autofetch": true,
+  "files.trimTrailingWhitespace": true,
+  "gitlens.keymap": "alternate",
+  "emmet.includeLanguages": {
+    "erb": "html"
+  },
+  "editor.fontSize": 16,
+  "window.zoomLevel": 0,
+  "vim.enableNeovim": true,
+  // Allows key bind changes to work on Linux
+  "keyboard.dispatch": "keyCode",
+  "terminal.integrated.fontSize": 13
+}
